@@ -1,0 +1,4 @@
+﻿  FinalProject_TeacherManagement.cpp
+C:\Users\SokHeng\source\repos\FinalProject_TeacherManagement\FinalProject_TeacherManagement\FinalProject_TeacherManagement.cpp(420,31): warning C4101: 'authh': unreferenced local variable
+C:\Users\SokHeng\source\repos\FinalProject_TeacherManagement\FinalProject_TeacherManagement\FinalProject_TeacherManagement.cpp(461,31): warning C4101: 'authh': unreferenced local variable
+  FinalProject_TeacherManagement.vcxproj -> C:\Users\SokHeng\source\repos\FinalProject_TeacherManagement\x64\Debug\FinalProject_TeacherManagement.exe
